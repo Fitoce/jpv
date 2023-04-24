@@ -1,0 +1,259 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    font-family: 'Roboto', sans-serif;  
+    background-color: #000014;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1161' height='1161' viewBox='0 0 800 800'%3E%3Cg fill='none' stroke-opacity='0.29'%3E%3Cg stroke='%23001642' stroke-width='17'%3E%3Cline x1='-8' y1='-8' x2='808' y2='808'/%3E%3Cline x1='-8' y1='792' x2='808' y2='1608'/%3E%3Cline x1='-8' y1='-808' x2='808' y2='8'/%3E%3C/g%3E%3Cg stroke='%23001f4d' stroke-width='16'%3E%3Cline x1='-8' y1='767' x2='808' y2='1583'/%3E%3Cline x1='-8' y1='17' x2='808' y2='833'/%3E%3Cline x1='-8' y1='-33' x2='808' y2='783'/%3E%3Cline x1='-8' y1='-783' x2='808' y2='33'/%3E%3C/g%3E%3Cg stroke='%23002857' stroke-width='15'%3E%3Cline x1='-8' y1='742' x2='808' y2='1558'/%3E%3Cline x1='-8' y1='42' x2='808' y2='858'/%3E%3Cline x1='-8' y1='-58' x2='808' y2='758'/%3E%3Cline x1='-8' y1='-758' x2='808' y2='58'/%3E%3C/g%3E%3Cg stroke='%23003160' stroke-width='14'%3E%3Cline x1='-8' y1='67' x2='808' y2='883'/%3E%3Cline x1='-8' y1='717' x2='808' y2='1533'/%3E%3Cline x1='-8' y1='-733' x2='808' y2='83'/%3E%3Cline x1='-8' y1='-83' x2='808' y2='733'/%3E%3C/g%3E%3Cg stroke='%23003a67' stroke-width='13'%3E%3Cline x1='-8' y1='92' x2='808' y2='908'/%3E%3Cline x1='-8' y1='692' x2='808' y2='1508'/%3E%3Cline x1='-8' y1='-108' x2='808' y2='708'/%3E%3Cline x1='-8' y1='-708' x2='808' y2='108'/%3E%3C/g%3E%3Cg stroke='%2300426c' stroke-width='12'%3E%3Cline x1='-8' y1='667' x2='808' y2='1483'/%3E%3Cline x1='-8' y1='117' x2='808' y2='933'/%3E%3Cline x1='-8' y1='-133' x2='808' y2='683'/%3E%3Cline x1='-8' y1='-683' x2='808' y2='133'/%3E%3C/g%3E%3Cg stroke='%23004b6f' stroke-width='11'%3E%3Cline x1='-8' y1='642' x2='808' y2='1458'/%3E%3Cline x1='-8' y1='142' x2='808' y2='958'/%3E%3Cline x1='-8' y1='-158' x2='808' y2='658'/%3E%3Cline x1='-8' y1='-658' x2='808' y2='158'/%3E%3C/g%3E%3Cg stroke='%23005470' stroke-width='10'%3E%3Cline x1='-8' y1='167' x2='808' y2='983'/%3E%3Cline x1='-8' y1='617' x2='808' y2='1433'/%3E%3Cline x1='-8' y1='-633' x2='808' y2='183'/%3E%3Cline x1='-8' y1='-183' x2='808' y2='633'/%3E%3C/g%3E%3Cg stroke='%23005c6f' stroke-width='9'%3E%3Cline x1='-8' y1='592' x2='808' y2='1408'/%3E%3Cline x1='-8' y1='192' x2='808' y2='1008'/%3E%3Cline x1='-8' y1='-608' x2='808' y2='208'/%3E%3Cline x1='-8' y1='-208' x2='808' y2='608'/%3E%3C/g%3E%3Cg stroke='%2300646d' stroke-width='8'%3E%3Cline x1='-8' y1='567' x2='808' y2='1383'/%3E%3Cline x1='-8' y1='217' x2='808' y2='1033'/%3E%3Cline x1='-8' y1='-233' x2='808' y2='583'/%3E%3Cline x1='-8' y1='-583' x2='808' y2='233'/%3E%3C/g%3E%3Cg stroke='%23006c68' stroke-width='7'%3E%3Cline x1='-8' y1='242' x2='808' y2='1058'/%3E%3Cline x1='-8' y1='542' x2='808' y2='1358'/%3E%3Cline x1='-8' y1='-558' x2='808' y2='258'/%3E%3Cline x1='-8' y1='-258' x2='808' y2='558'/%3E%3C/g%3E%3Cg stroke='%23007463' stroke-width='6'%3E%3Cline x1='-8' y1='267' x2='808' y2='1083'/%3E%3Cline x1='-8' y1='517' x2='808' y2='1333'/%3E%3Cline x1='-8' y1='-533' x2='808' y2='283'/%3E%3Cline x1='-8' y1='-283' x2='808' y2='533'/%3E%3C/g%3E%3Cg stroke='%23007c5c' stroke-width='5'%3E%3Cline x1='-8' y1='292' x2='808' y2='1108'/%3E%3Cline x1='-8' y1='492' x2='808' y2='1308'/%3E%3Cline x1='-8' y1='-308' x2='808' y2='508'/%3E%3Cline x1='-8' y1='-508' x2='808' y2='308'/%3E%3C/g%3E%3Cg stroke='%23008354' stroke-width='4'%3E%3Cline x1='-8' y1='467' x2='808' y2='1283'/%3E%3Cline x1='-8' y1='317' x2='808' y2='1133'/%3E%3Cline x1='-8' y1='-333' x2='808' y2='483'/%3E%3Cline x1='-8' y1='-483' x2='808' y2='333'/%3E%3C/g%3E%3Cg stroke='%231c8a4c' stroke-width='3'%3E%3Cline x1='-8' y1='342' x2='808' y2='1158'/%3E%3Cline x1='-8' y1='442' x2='808' y2='1258'/%3E%3Cline x1='-8' y1='-458' x2='808' y2='358'/%3E%3Cline x1='-8' y1='-358' x2='808' y2='458'/%3E%3C/g%3E%3Cg stroke='%23429044' stroke-width='2'%3E%3Cline x1='-8' y1='367' x2='808' y2='1183'/%3E%3Cline x1='-8' y1='417' x2='808' y2='1233'/%3E%3Cline x1='-8' y1='-433' x2='808' y2='383'/%3E%3Cline x1='-8' y1='-383' x2='808' y2='433'/%3E%3C/g%3E%3Cg stroke='%235E963D' stroke-width='1'%3E%3Cline x1='-8' y1='392' x2='808' y2='1208'/%3E%3Cline x1='-8' y1='-408' x2='808' y2='408'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+background-attachment: fixed;
+}
+#contenedor1{
+    margin: auto;
+    width: 1024px;
+    height:auto;
+
+}
+
+#entrada{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+  
+}
+
+#titulo{
+    color: rgb(169, 230, 247);
+    margin-top: 5%;
+    margin-left: 8%;
+    font-size: 90px;
+    text-align: center;
+    font-weight: 580;
+}
+
+#logo1{
+    float: right;
+    width: 150px;
+    height: 150px;
+}
+
+#idiomas{
+    float: right;
+    margin-top: 4%;
+    background:none;
+}
+
+#idio ul a{
+    margin-top: 5px;
+    text-decoration: none;
+    color: rgb(169, 230, 247);
+    font-size: 18px;
+    padding-right: 10px;
+    
+}
+#idio ul a:hover{
+    color: #02f961;
+}
+
+#contenedor2{
+    margin-top: 5%;
+    background: none;
+    
+}
+#menu{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    
+
+}
+#menu a{
+    padding-top: 10px;
+    padding-left: 5px;
+    text-decoration: none;
+    color: rgb(169, 230, 247);
+}
+#menu a:hover{
+    color: #02f961;
+} 
+
+
+#contenedor3{
+    width: 100%;
+    margin-top: 12%;
+}
+#gear{
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+p{
+    color: rgb(169, 230, 247);
+    font-size: 30px;
+    
+
+
+}
+
+#contenedor4{
+    margin-top: 20%;
+    text-align: center;
+
+}
+#contenedor4 a{
+    color: rgb(169, 230, 247);
+    text-decoration: none;
+    font-size: 25px;
+}
+#contenedor4 a:hover{
+    color: #02f961;
+}
+
+footer {
+    height:40px;
+    padding: 20px 20px;
+    background:none;
+    color: rgb(169, 230, 247);
+    text-align: center;
+    margin-top: 90%;
+}
+/*aca comienza html contacto*/
+
+#subtitulo{
+    margin-top: 15%;
+    font-size: 70px;
+    color: rgb(169, 230, 247);
+    text-align: center;
+}
+.contenedor5{
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: rgb(169, 230, 247);
+    font-size: 25px;
+}
+#phone{
+    width: 150px;
+    
+}
+#address{
+    width: 150px;
+}
+#email{
+    width: 150px;
+}
+#subtitulo2{
+    margin-top: 5%;
+    margin: 10%;
+    font-size: 70px;
+    color: rgb(169, 230, 247);
+    text-align:center;
+}
+
+#contenedor6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+    color: rgb(169, 230, 247);
+    
+}
+#contenedor6 label,form legend{
+    
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+
+#contenedor7{
+    color: rgb(169, 230, 247);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.checkbox{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.enviar{
+    margin-top: 2%;
+    width: 40%;
+    padding: 14px 0px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(5, 5, 5);
+    background: rgb(169, 230, 247);
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+.enviar:hover{
+    background:#02f961;
+    transform: scale(1.2);
+}
+form{
+    margin: 40px 0
+    ;
+}
+
+form label, form legend{
+    color: rgb(169, 230, 247);
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+.input-padron{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+
+}
+
+/*aca empieza html productos*/
+
+#subtitulo3{
+    padding-top: 30px;
+    margin: 10%;
+    font-size: 70px;
+    color: rgb(169, 230, 247);
+    text-align:center;
+
+}
+
+#imagenes11{
+    margin-top: 5%;
+}
+#imagenes11 a{
+    text-decoration: none;
+    color: rgb(169, 230, 247);
+    font-size: 30px;
+    width: 80%;
+}
+
+#imagenes11 img{
+    float: right;
+    width: 130px;
+    height: 130px;
+}
+#imagenes11 div{
+    display: flex;
+    margin-top: 30px;
+}
+#imagenes11 div a:hover{
+    color: #02f961;    
+}
+.pdfbox{
+    margin-top: 60px;
+}
+.pdf{
+    
+    width: 100%;
+    height: 1024px;
+}
